@@ -5,9 +5,9 @@
 gdsGEN is a simple and powerful software tool that can convert a given png/img image into GDSII format which is the standard
 format used in lithography/fabrication process.
 
-# Setup and requirements python 2.7. (For Python 3 checkout the other git branch)
+# Setup and requirements python 2.7. 
 
-The Python code is for Python 2.7. The following packages must be installed before running the source code.
+The Python code is for Python 2.7. The following packages must be installed before running the source code.(For Python 3 checkout the other git branch)
 1. gdsCAD 
 2. Numpy
 3. Scipy

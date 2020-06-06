@@ -1,0 +1,3 @@
+/** Use this command to make a single EXE file of the software **/
+
+pyinstaller --onefile --windowed --icon=logo.ico gdsGEN.spec
